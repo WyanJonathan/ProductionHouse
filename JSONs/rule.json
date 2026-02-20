@@ -1,0 +1,21 @@
+{
+    "embeds":[
+        {
+            "title": "**By joining Production House, you agree to:**", 
+            "description": "- Be kind, respectful and not engage in negative or disruptive behaviour.\n- Use the correct text and voice channels for their purpose.\n- Not post NSFW, gore, nudity, spam, drama, politics or religious content.\n- Not use generative AI when creating films or any other media. \n- Not engage in piracy, ripping, or sharing of avatars or assets.\n- Not use our community to promote or DM individuals a product or service.\n- Follow [VRChat's Community Guidelines](https://hello.vrchat.com/community-guidelines) & [Discord Community Guidelines.](https://discord.com/guidelines)", 
+            "color": 0, 
+            "fields":[
+                {
+                    "name":"Violating rules leads to warnings or a ban depending on severity.",
+                    "value": "", 
+                    "inline": false
+                },
+                {
+                    "name":"**If you have any concerns or observed any misconduct, please don't hesitate to contact a staff member.**",
+                    "value": "", 
+                    "inline": false
+                }
+            ]
+        }
+    ]
+}

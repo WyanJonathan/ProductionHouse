@@ -1,0 +1,31 @@
+{
+    "embeds":[
+        {
+            "title": "**Production House is fully public. Meaning anyone is allowed to join. Anyone can create a Production House work. Anyone can influence the Identity of Production House. Anyone of any skill can find a place here.**", 
+            "description": "Even if you simply want help but don't want to make your project into a Production House work that is fully acceptable!", 
+            "color": 0, 
+            "fields":[
+                {
+                    "name":"",
+                    "value": "- Production House strives to host events, have the leadership involved in projects, and usher in a golden age for the VRChat Video Arts Scene.", 
+                    "inline": false
+                },
+                {
+                    "name":"",
+                    "value": "- Production House is a No Obligations group. We make no demands of you. Partake at your own pace. You will still be welcome.", 
+                    "inline": false
+                },
+                {
+                    "name":"",
+                    "value": "- Production House is a place built out of necessity and passion. We have felt the difficulties in finding help, the lack of willingness to collaborate, and have seen the untapped artistic potential within VRChat. We understand the lonely struggle it can sometimes, we aim to change that.", 
+                    "inline": false
+                },
+                {
+                    "name":"",
+                    "value": "- A serious aspect of Production House is the involvement of the average person. From helping teach those who want to learn, to helping those who have yet to make a name for themselves. We do not do this only for ourselves. We truly wish to make a place for everyone who shares our struggles and passion. We wish to change the VRChat Video Arts scene into something everyone can do and wants to see.", 
+                    "inline": false
+                }
+            ]
+        }
+    ]
+}

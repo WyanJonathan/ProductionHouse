@@ -1,0 +1,36 @@
+{
+    "embeds":[
+        {
+            "title": "**There are Three main ways to support Production House, its success, and its growth.**", 
+            "description": "", 
+            "color": 0, 
+            "fields":[
+                {
+                    "name":"",
+                    "value": "- Invite your friends, associates on other projects, and those who may benefit from Production House. This is likely our best option for growth until we have many projects under our belt as a community.", 
+                    "inline": false
+                },
+                {
+                    "name":"",
+                    "value": "- It will be a long hard path to create the place we envision. The more people we can get here the more likely Production House works. Those who made Production House only know so many people. However, if everyone shared a simple invite to the people they know in this field of art or who may be interested we would grow exponentially faster. ", 
+                    "inline": false
+                },
+                {
+                    "name":"",
+                    "value": "- Add 'Made In association with Production House', and use our Logo/Group Code somewhere in your videos. This is a simple way to influence and connect yourself to the Identity of Production House. While allowing new people to find us.", 
+                    "inline": false
+                },
+                {
+                    "name":"",
+                    "value": "- Be Involved. Production House cannot work without community and involvement. There are some ways you can be involved so please consider partaking in any of them.", 
+                    "inline": false
+                },
+                {
+                    "name":"",
+                    "value": "- Attend Production House Events. Help people on their projects. Ask for help on your projects. Share the cool videos you find. Comment on the works people create and share here even if only brief. Offer to teach someone. Ask to be taught a skill you lack or need help on. Ask others about what they are working on. Simply engage with one another.", 
+                    "inline": false
+                }
+            ]
+        }
+    ]
+}
