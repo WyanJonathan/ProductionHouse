@@ -1,0 +1,31 @@
+{
+    "embeds":[
+        {
+            "title": "**Here are the list of channels that you can follow:**\nFollow them by going to <id:customize>", 
+            "description": "", 
+            "color": 0, 
+            "fields":[
+                {
+                    "name":"",
+                    "value": "**__Announcements__**\n\nhttps://discord.com/channels/1430259391474565142/1473586463068127367 \n> Production House announcements! \n> Pick up <@&1473944147722506262> to be notified! \nhttps://discord.com/channels/1430259391474565142/1473588895131369533 \n> For announcements of future Production house events such as World Hops, Hangouts, Workshops, and more! \n> Pick up <@&1473944023914778707> to be notified!", 
+                    "inline": false
+                },
+                {
+                    "name":"",
+                    "value": "**__Community__**\n\nhttps://discord.com/channels/1430259391474565142/1473968869675630656 \n> Make a post and introduce yourself! If you have, link your previous works too! \nhttps://discord.com/channels/1430259391474565142/1430259393144029237\n> Talk to everyone here!\nhttps://discord.com/channels/1430259391474565142/1473587291543961681\n> Share any VRChat screenshots and clips here!\nhttps://discord.com/channels/1430259391474565142/1430296899029565622\n> Share your most recent works here!\nhttps://discord.com/channels/1430259391474565142/1480029451235623072\n> See something cool someone else created? Share it here! \nhttps://discord.com/channels/1430259391474565142/1473127235626995837 \n> Share other links/memes/posts here!\nhttps://discord.com/channels/1430259391474565142/1430259393144029238 & https://discord.com/channels/1430259391474565142/1495072933578801172 \n> Voice Channels to hangout and work with friends!", 
+                    "inline": false
+                },
+                {
+                    "name":"",
+                    "value": "**__Sharing Corner__**\n\nhttps://discord.com/channels/1430259391474565142/1495611345817571499 \n> See a cool world in VRChat? Share it here! \nhttps://discord.com/channels/1430259391474565142/1495613565665804389 \n> Share cool & useful asset links here!\n> [REMINDER!] Do not engage in piracy, and respect creator ToS.\nhttps://discord.com/channels/1430259391474565142/1495461096830533823\n> Share Music here!\nhttps://discord.com/channels/1430259391474565142/1473591227718041763\n> Discuss potential film ideas and brainstorm!\nhttps://discord.com/channels/1430259391474565142/1473589507981967494\n> Need help on something? ask here!\nhttps://discord.com/channels/1430259391474565142/1495594811720335370\n> Browse useful tutorials here to help with your films!\nhttps://discord.com/channels/1430259391474565142/1495594731844141167\n> VC for our Workshop events!", 
+                    "inline": false
+                },
+                {
+                    "name":"",
+                    "value": "**__Film Collaborations__**\n\nhttps://discord.com/channels/1430259391474565142/1473592053047759003 \n> Have a project and in need of help? Create a post and pitch it here!\nhttps://discord.com/channels/1430259391474565142/1492673164113875025\n> Want to help on projects? Advertise yourself here!", 
+                    "inline": false
+                }
+            ]
+        }
+    ]
+}
